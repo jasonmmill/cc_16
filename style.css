@@ -1,0 +1,27 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    padding: 20px;
+}
+.product-card {
+    padding: 10px;
+    margin: 10px;
+    background-color: lightpink;
+    border-radius: 5px;
+    display: inline-block;
+}
+.name {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    color: black;
+}
+.price {
+    font-size: 13px;
+    color: black;
+}
+.image {
+   border-radius: 10px;
+}
+#product-container {
+    margin-bottom: 20px;
+}

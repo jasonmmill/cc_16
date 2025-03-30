@@ -1,4 +1,4 @@
-const BASE_URL = "https://www.course-api.com/javascript-store-product"
+const BASE_URL = "https://www.course-api.com/javascript-store-products"
 
 function fetchProductsThen() {
     return fetch(BASE_URL)
